@@ -1,6 +1,6 @@
 # CryptPy
 
-A simple encryption tool for files / strings written in python. 
+CryptPy is a series of standalone scripts for encryption and decryption of files / strings. 
 
 ## How To Use
 

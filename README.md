@@ -2,7 +2,7 @@
 
 CryptPy is a series of standalone scripts for encryption and decryption of files / strings. 
 
-## How To Use
+## Instructions
 
 First use `generateKey.py` to generate a `key.key` file.
 

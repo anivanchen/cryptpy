@@ -1,5 +1,7 @@
 # CryptPy
 
+![](https://img.shields.io/github/license/anivanchen/cryptpy?color=brightgreen&style=for-the-badge)
+
 CryptPy is a series of standalone scripts for encryption and decryption of files / strings. 
 
 ## Instructions
